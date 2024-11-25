@@ -1,0 +1,228 @@
+C07900,U007900,CAN Bus Communication defect (BusOff)
+C10100,U010100,Communication disruption with TCM (CAN)
+C13100,U013100,Communication disruption with EPAS (CAN)
+C14700,U014700,Communication disruption with PT_GWU (CAN)
+C15500,U015500,Communication disruption with HEC (CAN)
+C15802,U015802,HUD-CMU Communication disruption
+C14000,U014000,CAN Bus Communication defect (Missing Message IVI-CAN)
+C15100,U015100,Communication disruption with RCM (CAN)
+C16200,U016200,GMSL TX0(Center-Display)<=> Center-Display Communication defect
+C18600,U018600,CAN Bus Communication defect (Missing Message AMP)
+C18602,U018602,AMP-CMU Communication disruption (MOST Ring Break Diag)
+C18608,U018608,AMP-CMU Communication disruption (no response MOST communication)
+C18700,U018700,DeckCD/DVD-CMU Communication disruption (USB)
+C18702,U018702,GMSL RX1(CD/DVD Deck)<=> CD/DVD Deck Communication defect
+C19100,U019100,GMSL RX3(DTV)<=> DTV Communication defect
+C19800,U019800,TCU-CMU Communication disruption (USB)
+C19802,U019802,TCU Communication disruption (CAN)
+C26400,U026400,GMSL RX0(camera)<=> Camera Communication defect
+E12100,U212100,VCM Communication disruption (CAN)
+E13300,U213300,LowDisp-CMU Communication disruption (CAN)
+E13302,U213302,LowDisp-CMU Communication disruption (USB)
+E13C00,U213C00,DSC Communication disruption (CAN)
+E13E00,U213E00,PCM Communication disruption (CAN)
+E14000,U214000,GMSL RX2(HUB unit)<=> HUB unit Communication defect
+E14002,U214002,Communication disruption between USB HUB and CMU
+E14100,U214100,SYS Micro <=> Commander Communication defect
+E14200,U214200,SYS Micro <=> MIC Communication defect (UART
+E14400,U214400,GMSL TX1(RSES)<=> RSES unit Communication defect
+E14502,U214502,Tuner-CMU Communication disruption (MOST Ring Break Diag)
+E14508,U214508,Tuner-CMU Communication disruption (MOST Communication no response)
+E14600,U214600,Qi-CMU Communication disruption (CAN)
+E14602,U214602,Qi-CMU Communication disruption (USB)
+E30054,U230054,CDID that CMU needs isn't notified from C-BCM.
+E30055,U230055,CMU with no configure condition
+E30055,U230055,TUNER configuration abnormal
+E30055,U230055,AMP configuration abnormal
+E30056,U230056,The parameter of CMU CDP isn't correct ( out of range
+E30064,U230064,Repugnant configuration among CMU
+E30156,U230156,The parameter of CMU CDP isn't correct by dealer configuration ( out of range
+E30164,U230164,Repugnant configuration among CMU by dealer configuration
+F00042,U300042,Memory fault
+F00042,U300042,SYS Micro <=> EEPROM Communication defect
+F00042,U300042,SoC <=> External memory (for the Audio) Communication defect
+F00047,U300047,SYS Micro <=> SoC Communication defect
+F00047,U300047,CAN Micro <=> SYS Micro Communication defect
+F00047,U300047,CAN Micro <=> SoC Communication defect
+F00047,U300047,SoC <=> CAN Micro Communication defect
+F00047,U300047,SoC <=> SYS Micro Communication defect
+F00049,U300049,GMSL RX0(camera) defect (power defect)
+F00049,U300049,GMSL RX0(camera) defect (IC defect)
+F00049,U300049,SYS Micro <=> GMSL RX0(camera) Communication defect
+F00049,U300049,SYS Micro <=> GMSL TX0(Center-Display) Communication defect
+F00049,U300049,SYS Micro <=> Audio DSP Communication defect (setting/ Information receive)
+F00049,U300049,SYS Micro <=> FPGA Communication defect (FPGA setting
+F00049,U300049,SYS Micro <=> GYRO Communication defect
+F00049,U300049,SYS Micro <=> GSENSOR Communication defect
+F00049,U300049,SoC <=> MOST INIC Communication defect
+F00049,U300049,SoC <=> Bluetooth/Wi-Fi module Communication defect (BT)
+F00049,U300049,SoC <=> Bluetooth/Wi-Fi module Communication defect (WiFi)
+F00049,U300049,SoC <=> CP Communication defect
+F00049,U300049,GMSL RX1(CD/DVD Deck) <=> SoC Communication defect
+F00049,U300049,GMSL RX1(CD/DVD Deck) <=> FPGA Communication defect
+F00049,U300049,GMSL RX1(CD/DVD Deck) defect (power defect)
+F00049,U300049,GMSL RX1(CD/DVD Deck) defect (IC defect)
+F00049,U300049,SoC <=> GMSL RX1(CD/DVD Deck) Communication defect
+F00049,U300049,FPGA <=> GMSL RX1(CD/DVD Deck) Communication defect
+F00049,U300049,GMSL RX2(HUB unit) <=> SoC Communication defect
+F00049,U300049,GMSL RX2(HUB unit) <=> FPGA Communication defect
+F00049,U300049,GMSL RX2(HUB unit) defect  (power defect)
+F00049,U300049,GMSL RX2(HUB unit) defect  (IC defect)
+F00049,U300049,SoC <=> GMSL RX2(HUB unit) Communication defect
+F00049,U300049,FPGA <=> GMSL RX2(HUB unit) Communication defect
+F00049,U300049,GMSL RX3(DVT) <=> SoC Communication defect
+F00049,U300049,GMSL RX3(DVT) <=> FPGA defect
+F00049,U300049,GMSL RX3(DVT) defect (power defect)
+F00049,U300049,GMSL RX3(DVT) defect (IC defect)
+F00049,U300049,SoC <=> GMSL RX3(DVT)  Communication defect
+F00049,U300049,FPGA <=> GMSL RX3(DVT)  Communication defect
+F00049,U300049,GMSL TX1(RSES) <=> SoC Communication defect
+F00049,U300049,SoC <=> GMSL TX1(RSES) Communication defect
+F00049,U300049,FPGA <=> SoC Communication defect (video input to CMU)
+F00049,U300049,FPGA <=> SoC Communication defect (video output from CMU)
+F00049,U300049,SoC <=> FPGA Communication defect (video input to CMU)
+F00049,U300049,SoC <=> FPGA Communication defect (video output from CMU)
+F00049,U300049,SYS Micro <=> External RTC
+F00316,U300316,Power failure for CAN (BAT_DET2 detect) 
+F00316,U300316,Power failure for CAN (BAT_DET detect past 30secs)
+91BA13,B11BA13,SYS Micro <=> ST-SW defect (Open
+91BA2B,B11BA2B,SYS Micro <=> ST-SW defect (Long press
+919F13,B119F13,SYS Micro <=> GPS antenna defect (Open)
+919F2B,B119F2B,SYS Micro <=> GPS antenna defect (Short)
+919F49,B119F49,SoC <=> GPS module Communication defect
+9A8913,B1A8913,SXM antenna disconnect/ open
+9A892B,B1A892B,SXM antenna short
+9A8949,B1A8949,SXM module failure
+9A302B,B1A302B,Either way for SW sticking
+9A3349,B1A3349,Tuner failure
+9A2013,B1A2013,Tuner AM/FM antenna1 open/ disconnect (AM/FM main antenna)
+9A202B,B1A202B,Tuner AM/FM antenna1 short (AM/FM main antenna)
+9A2113,B1A2113,Tuner AM/FM antenna2 open/ disconnect (AM/FM diversity antenna)
+9A212B,B1A212B,Tuner AM/FM antenna2 short (AM/FM diversity antenna)
+9A2213,B1A2213,Tuner DAB antenna1 open/ disconnect
+9A222B,B1A222B,Tuner DAB antenna1 short
+9A2313,B1A2313,Tuner DAB antenna2 disconnect/ open
+9A232B,B1A232B,Tuner DAB antenna2 short
+9A2413,B1A2413,Tuner DTV antenna1 open/ disconnect (DVT right front)
+9A242B,B1A242B,Tuner DTV antenna1 short (DVT right front)
+9A2513,B1A2513,Tuner DTV antenna2 open/ disconnect (DVT left front)
+9A252B,B1A252B,Tuner DTV antenna2 short (DVT left front)
+9A2613,B1A2613,Tuner DTV antenna3 open/ disconnect (DVT right rear)
+9A262B,B1A262B,Tuner DTV antenna3 short (DVT right rear)
+9A2713,B1A2713,Tuner DTV antenna4 open/ disconnect (DVT left rear)
+9A272B,B1A272B,Tuner DTV antenna4 short (DVT left rear)
+923849,B123849,AMP failure
+9A0113,B1A0113,AMP-speaker line1 defect (open/ disconnect) MOST DiagCode(0x80)
+9A012B,B1A012B,AMP-speaker line1 defect (short) MOST DiagCode(0xA0)
+9A0112,B1A0112,AMP-speaker line1 defect (Power short) MOST DiagCode(0xC0)
+9A0111,B1A0111,AMP-speaker line1 defect (GND short) MOST DiagCode(0xE0)
+9A0213,B1A0213,AMP-speaker line2 defect (open/ disconnect) MOST DiagCode(0x81)
+9A022B,B1A022B,AMP-speaker line2 defect (short) MOST DiagCode(0xA1)
+9A0212,B1A0212,AMP-speaker line2 defect (Power short) MOST DiagCode(0xC1)
+9A0211,B1A0211,AMP-speaker line2 defect (GND short) MOST DiagCode(0xE1)
+9A0313,B1A0313,AMP-speaker line3 defect (open/ disconnect) MOST DiagCode(0x82)
+9A032B,B1A032B,AMP-speaker line3 defect (short) MOST DiagCode(0xA2)
+9A0312,B1A0312,AMP-speaker line3 defect (Power short) MOST DiagCode(0xC2)
+9A0311,B1A0311,AMP-speaker line3 defect (GND short) MOST DiagCode(0xE2)
+9A0413,B1A0413,AMP-speaker line4 defect (open/ disconnect) MOST DiagCode(0x83)
+9A042B,B1A042B,AMP-speaker line4 defect (short) MOST DiagCode(0xA3)
+9A0412,B1A0412,AMP-speaker line4 defect (Power short) MOST DiagCode(0xC3)
+9A0411,B1A0411,AMP-speaker line4 defect (GND short) MOST DiagCode(0xE3)
+9A0513,B1A0513,AMP-speaker line5 defect (open/ disconnect) MOST DiagCode(0x84)
+9A052B,B1A052B,AMP-speaker line5 defect (short) MOST DiagCode(0xA4)
+9A0512,B1A0512,AMP-speaker line5 defect (Power short) MOST DiagCode(0xC4)
+9A0511,B1A0511,AMP-speaker line5 defect (GND short) MOST DiagCode(0xE4)
+9A0613,B1A0613,AMP-speaker line6 defect (open/ disconnect) MOST DiagCode(0x85)
+9A062B,B1A062B,AMP-speaker line6 defect (short) MOST DiagCode(0xA5)
+9A0612,B1A0612,AMP-speaker line6 defect (Power short) MOST DiagCode(0xC5)
+9A0611,B1A0611,AMP-speaker line6 defect (GND short) MOST DiagCode(0xE5)
+9A0713,B1A0713,AMP-speaker line7 defect (open/ disconnect) MOST DiagCode(0x86)
+9A072B,B1A072B,AMP-speaker line7 defect (short) MOST DiagCode(0xA6)
+9A0712,B1A0712,AMP-speaker line7 defect (Power short) MOST DiagCode(0xC6)
+9A0711,B1A0711,AMP-speaker line7 defect (GND short) MOST DiagCode(0xE6)
+9A0813,B1A0813,AMP-speaker line8 defect (open/ disconnect) MOST DiagCode(0x87)
+9A082B,B1A082B,AMP-speaker line8 defect (short) MOST DiagCode(0xA7)
+9A0812,B1A0812,AMP-speaker line8 defect (Power short) MOST DiagCode(0xC7)
+9A0811,B1A0811,AMP-speaker line8 defect (GND short) MOST DiagCode(0xE7)
+9A0913,B1A0913,AMP-speaker line9 defect (open/ disconnect) MOST DiagCode(0x88)
+9A092B,B1A092B,AMP-speaker line9 defect (short) MOST DiagCode(0xA8)
+9A0912,B1A0912,AMP-speaker line9 defect (Power short) MOST DiagCode(0xC8)
+9A0911,B1A0911,AMP-speaker line9 defect (GND short) MOST DiagCode(0xE8)
+9A1013,B1A1013,AMP-speaker line10 defect (open/ disconnect) MOST DiagCode(0x89)
+9A102B,B1A102B,AMP-speaker line10 defect (short) MOST DiagCode(0xA9)
+9A1012,B1A1012,AMP-speaker line10 defect (Power short) MOST DiagCode(0xC9)
+9A1011,B1A1011,AMP-speaker line10 defect (GND short) MOST DiagCode(0xE9)
+9A1113,B1A1113,AMP-speaker line11 defect (open/ disconnect) MOST DiagCode(0x8A)
+9A112B,B1A112B,AMP-speaker line11 defect (short) MOST DiagCode(0xAA)
+9A1112,B1A1112,AMP-speaker line11 defect (Power short) MOST DiagCode(0xCA)
+9A1111,B1A1111,AMP-speaker line11 defect (GND short) MOST DiagCode(0xEA)
+9A1213,B1A1213,AMP-speaker line12 defect (open/ disconnect) MOST DiagCode(0x8B)
+9A122B,B1A122B,AMP-speaker line12 defect (short) MOST DiagCode(0xAB)
+9A1212,B1A1212,AMP-speaker line12 defect (Power short) MOST DiagCode(0xCB)
+9A1211,B1A1211,AMP-speaker line12 defect (GND short) MOST DiagCode(0xEB)
+928A13,B128A13,AMP-speaker line13 defect (open/ disconnect) MOST DiagCode(0x8C)
+928A2B,B128A2B,AMP-speaker line13 defect (short) MOST DiagCode(0xAC)
+928A12,B128A12,AMP-speaker line13 defect (Power short) MOST DiagCode(0xCC)
+928A11,B128A11,AMP-speaker line13 defect (GND short) MOST DiagCode(0xEC)
+928B13,B128B13,AMP-speaker line14 defect (open/ disconnect) MOST DiagCode(0x8D)
+928B2B,B128B2B,AMP-speaker line14 defect (short) MOST DiagCode(0xAD)
+928B12,B128B12,AMP-speaker line14 defect (Power short) MOST DiagCode(0xCD)
+928B11,B128B11,AMP-speaker line14 defect (GND short) MOST DiagCode(0xED)
+928C13,B128C13,AMP-speaker line15 defect (open/ disconnect) MOST DiagCode(0x8E)
+928C2B,B128C2B,AMP-speaker line15 defect (short) MOST DiagCode(0xAE)
+928C12,B128C12,AMP-speaker line15 defect (Power short) MOST DiagCode(0xCE)
+928C11,B128C11,AMP-speaker line15 defect (GND short) MOST DiagCode(0xEE)
+928D13,B128D13,AMP-speaker line16 defect (open/ disconnect) MOST DiagCode(0x8F)
+928D2B,B128D2B,AMP-speaker line16 defect (short) MOST DiagCode(0xAF)
+928D12,B128D12,AMP-speaker line16 defect (Power short) MOST DiagCode(0xCF)
+928D11,B128D11,AMP-speaker line16 defect (GND short) MOST DiagCode(0xEF)
+928E13,B128E13,AMP-speaker line17 defect (open/ disconnect) MOST DiagCode(0x90)
+928E2B,B128E2B,AMP-speaker line17 defect (short) MOST DiagCode(0xB0)
+928D12,B128E12,AMP-speaker line17 defect (Power short) MOST DiagCode(0xD0)
+928D11,B128E11,AMP-speaker line17 defect (GND short) MOST DiagCode(0xF1)
+928F13,B128F13,AMP-speaker line18 defect (open/ disconnect) MOST DiagCode(0x91)
+928F2B,B128F2B,AMP-speaker line18 defect (short) MOST DiagCode(0xB1)
+928F12,B128F12,AMP-speaker line18 defect (Power short) MOST DiagCode(0xD1)
+928F11,B128F11,AMP-speaker line18 defect (GND short) MOST DiagCode(0xF1)
+929013,B129013,AMP-speaker line19 defect (open/ disconnect) MOST DiagCode(0x92)
+92902B,B12902B,AMP-speaker line19 defect (short) MOST DiagCode(0xB2)
+929012,B129012,AMP-speaker line19 defect (Power short) MOST DiagCode(0xD2)
+929011,B129011,AMP-speaker line19 defect (GND short) MOST DiagCode(0xF2)
+929113,B129113,AMP-speaker line20 defect (open/ disconnect) MOST DiagCode(0x93)
+92912B,B12912B,AMP-speaker line20 defect (short) MOST DiagCode(0xB3)
+929112,B129112,AMP-speaker line20 defect (Power short) MOST DiagCode(0xD3)
+929111,B129111,AMP-speaker line20 defect (GND short) MOST DiagCode(0xF3)
+9A3213,B1A3213,Mic1-AMP defect (open/ disconnect) MOST DiagCode(0x98)
+9A322B,B1A322B,Mic1-AMP defect (short) MOST DiagCode(0xB8)
+9A3212,B1A3212,Mic1-AMP defect (Power short) MOST DiagCode(0xD8)
+9A3211,B1A3211,Mic1-AMP defect (GND short) MOST DiagCode(0xF8)
+9A3249,B1A3249,Mic failure
+9A3613,B1A3613,Mic2-AMP defect (open/ disconnect) MOST DiagCode(0x99)
+9A362B,B1A362B,Mic2-AMP defect (short) MOST DiagCode(0xB9)
+9A3612,B1A3612,Mic2-AMP defect (Power short) MOST DiagCode(0xD9)
+9A3611,B1A3611,Mic2-AMP defect (GND short) MOST DiagCode(0xF9)
+93F513,B13F513,Mic3-AMP defect (open/ disconnect) MOST DiagCode(0x9A)
+93F52B,B13F52B,Mic3-AMP defect (short) MOST DiagCode(0xBA)
+93F512,B13F512,Mic3-AMP defect (Power short) MOST DiagCode(0xDA)
+93F511,B13F511,Mic3-AMP defect (GND short) MOST DiagCode(0xFA)
+940013,B140013,Mic4-AMP defect (open/ disconnect) MOST DiagCode(0x9B)
+94002B,B14002B,Mic4-AMP defect (short) MOST DiagCode(0xBB)
+940012,B140012,Mic4-AMP defect (Power short) MOST DiagCode(0xDB)
+940011,B140011,Mic4-AMP defect (GND short) MOST DiagCode(0xFB)
+9A3713,B1A3713,Mic5-AMP defect (open/ disconnect) MOST DiagCode(0x9C)
+9A372B,B1A372B,Mic5-AMP defect (short) MOST DiagCode(0xBC)
+9A3712,B1A3712,Mic5-AMP defect (Power short) MOST DiagCode(0xDC)
+9A3711,B1A3711,Mic5-AMP defect (GND short) MOST DiagCode(0xFC)
+908E49,B108E49,CenterDisplay failure
+9D1949,B1D1949,Deck (CD/DVD) failure
+9A3049,B1A3049,Commander failure
+9A3149,B1A3149,RSE failure ( dealer option)
+923896,B123896,Self test  - no response (AMP)
+9A3396,B1A3396,Self test  - no response (TUNER)
+9D1996,B1D1996,Self test  - no response (DECK)
+908E96,B108E96,Self test  - no response (CenterDisplay)
+9A3196,B1A3196,Self test  - no response (RSES)
+9A3296,B1A3296,Self test  - no response (Mic)
+9A3996,B1A3996,Self test  - no response (Qi)
+9A3804,B1A3804,MapSD had a defect-it records when it wasn't possible to mount at timing of a mount
+9A3804,B1A3804,It records when a mount succeeded but MapSD had a defect
