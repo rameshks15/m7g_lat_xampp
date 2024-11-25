@@ -196,7 +196,7 @@ class DTCReader {
                 }
                 
                 // Output the CAN-DTC list
-                $this->LogDTC($this->CAN_DTC, $elm);
+                //$this->LogDTC($this->CAN_DTC, $elm);
                 //$this->LogDTC($this->DTC_List, $this->DTC_Count);
                 $retval = 1;
             } catch (Exception $e) {
